@@ -32,11 +32,7 @@ As part of my internship, I contributed to several projects that involved real-t
    * Assisted in designing PCBs to interface various sensors and communication modules.
    * Programmed microcontrollers to handle sensor inputs and control outputs in real-time.
 
-## GitHub Repository:
 
-The code and documentation for all the projects I worked on during the internship can be found here:
-
-[GitHub Repository](https://github.com/mrpreza/Embedded-Systems-Internship)
 
 ## Technologies Used:
 
